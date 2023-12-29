@@ -44,7 +44,8 @@ predicted_salary = regr.predict(new_employee)
 print("Predicted Salary for the corresponding experience and education:", predicted_salary)
 ```
 ## Output:
-![292745614-e4fb5217-c4a2-4419-98e2-0a988f14dd18](https://github.com/MARXINLIJO/Multivariate-Linear-Regression/assets/145742540/92f22ab2-c017-4c50-bda6-33a6e7bebf33)
+![292745614-e4fb5217-c4a2-4419-98e2-0a988f14dd18](https://github.com/MARXINLIJO/Multivariate-Linear-Regression/assets/145742540/b11fb817-eba3-4a91-bade-5942e0b48e6d)
+
 ![292745583-9b43054a-c7ab-46b3-bd4c-bbc125c235c4](https://github.com/MARXINLIJO/Multivariate-Linear-Regression/assets/145742540/4d0fe543-22b3-4cb4-9bfb-b7096144cf98)
 ![292745620-e8274234-77ef-4187-ba76-89af5712de7e](https://github.com/MARXINLIJO/Multivariate-Linear-Regression/assets/145742540/d24c1f79-fe99-4d7b-8caf-856caab11bad)
 
